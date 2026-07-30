@@ -1,0 +1,139 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1783016415976,
+    "data": [
+        {
+            "type": "file",
+            "name": ".htaccess",
+            "size": 325,
+            "hash": "833e59d4367347ed1be6ce5f64324f3b53e6ea09cb573d15fb19e4b7a4c0c634"
+        },
+        {
+            "type": "folder",
+            "name": ".vscode"
+        },
+        {
+            "type": "file",
+            "name": "404.php",
+            "size": 3908,
+            "hash": "d94987166509ed3cf123082de9aef4bebaee61d3f90750b5d7cda17402f5e625"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 5853,
+            "hash": "1b573797942e30a0f24a346be806980685b4e8732c408cddd5258d0833fe1ca6"
+        },
+        {
+            "type": "folder",
+            "name": "admin"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "config.php",
+            "size": 2412,
+            "hash": "87703ec1dbf561aa622af236765541d0541ee48a3b3bda6cf3b63d2319977111"
+        },
+        {
+            "type": "file",
+            "name": "database.sql",
+            "size": 2699,
+            "hash": "66b902c3c165af51a6eb061bbbb45357db1798c5aafa1e4242e65425fb0d1790"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 3298,
+            "hash": "c5c06caf8e05628e2dcff33129a6447b39ad9c87357a0fd803dec10f01806832"
+        },
+        {
+            "type": "file",
+            "name": "folder.php",
+            "size": 8758,
+            "hash": "d04ecf1a13953fbbdab285478e501df447673bcd8179b13ba3bf7f72b86f92d5"
+        },
+        {
+            "type": "folder",
+            "name": "uploads"
+        },
+        {
+            "type": "file",
+            "name": ".vscode/launch.json",
+            "size": 226,
+            "hash": "9bea437eb17ab8f7fa3e0bb10c0e50d2e51d433b056c608a183d6f9d67884ef2"
+        },
+        {
+            "type": "file",
+            "name": "admin/.htaccess",
+            "size": 35,
+            "hash": "8eb542c48f871c629c62095503b63591de74c85ddba7c7a2fdb6c2ba40892d55"
+        },
+        {
+            "type": "file",
+            "name": "admin/files.php",
+            "size": 18613,
+            "hash": "6b5e63eee77098fbf298451c870b0b5fc2cee58db2a2d79679a467835b5394b4"
+        },
+        {
+            "type": "file",
+            "name": "admin/folders.php",
+            "size": 10603,
+            "hash": "493cb18d7507ab344dc70e0b4f794ac2526de9f0a8975c2bfe9f3bc53241b85c"
+        },
+        {
+            "type": "file",
+            "name": "admin/index.php",
+            "size": 6803,
+            "hash": "7cf940e728cb9f7db7210a8adee91755b9bf3d8827a8310c2964ca745ad90f1f"
+        },
+        {
+            "type": "file",
+            "name": "admin/login.php",
+            "size": 3034,
+            "hash": "4c8d22aac6e92442bf1eb58ffdbc52d7f0839d5a8f2e9d2e5f0bbe7cbad0e537"
+        },
+        {
+            "type": "file",
+            "name": "admin/logout.php",
+            "size": 92,
+            "hash": "17f01fa9b652f2ed5985834a8718be7d5a32986b9e98759e3f9dd2addee13c6e"
+        },
+        {
+            "type": "file",
+            "name": "admin/sidebar.php",
+            "size": 1248,
+            "hash": "1f6cc62443848effa58bb8fe8a09f8972d6a5da3012a16960eaf9b4ec22c175b"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "file",
+            "name": "uploads/.htaccess",
+            "size": 201,
+            "hash": "b3a5913e499bbbb5605fc42ea08351cb48c3c47dec06ce63023801dbfa694cd0"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/style.css",
+            "size": 19442,
+            "hash": "f77749b39bc0eb283581683776dc779859a8571256279d65867fc8785d48bca2"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/main.js",
+            "size": 6268,
+            "hash": "610e19f06f62fe4d1f089852ec1a7cab07db61ce9636771bd44692745d203149"
+        }
+    ]
+}
